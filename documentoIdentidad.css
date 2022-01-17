@@ -1,0 +1,57 @@
+.col-6 {
+  margin-right: 40px;
+}
+
+.form-register {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.header {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.return {
+  color: black;
+}
+
+.progress-container {
+  margin: auto;
+  justify-content: space-evenly;
+  height: 100%;
+}
+
+.form-check {
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+.form-check-label {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.btn-group-container {
+  position: absolute;
+  bottom: 39px;
+  left: 0px;
+  padding: 0 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.btn-group-vertical {
+  max-width: 450px;
+}
+
+.offcanvas-header{
+    margin-left: auto;
+}
+
+.offcanvas-bottom{
+    height: 46vh;
+}
