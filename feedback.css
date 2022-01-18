@@ -1,6 +1,6 @@
 .feedback {
   width: 100%;
-  max-width: 330px;
+  max-width: 450px;
   padding: 15px;
   margin: auto;
 }
@@ -18,5 +18,9 @@
   margin: auto;
   justify-content: space-evenly;
   height: 100%;
+  margin-right: 0px;
 }
 
+.feedback-image{
+  text-align: center;
+}

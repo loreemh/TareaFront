@@ -1,6 +1,6 @@
 .form-register {
   width: 100%;
-  max-width: 330px;
+  max-width: 450px;
   padding: 15px;
   margin: auto;
 }
@@ -18,17 +18,24 @@
   margin: auto;
   justify-content: space-evenly;
   height: 100%;
+  margin-right: 0px;
 }
 
 .form-check {
   padding-bottom: 8px;
   padding-top: 8px;
+  padding-left: 35px;
 }
 
 .form-check-label {
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
+}
+
+.form-check-input:checked{
+  background-color: black;
+  border-color: black;
 }
 
 .btn-group-container {
@@ -50,4 +57,5 @@
 
 .offcanvas-bottom{
     height: 46vh;
-}
+    border-radius: 10px 10px 0px 0px;
+  }
